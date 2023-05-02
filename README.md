@@ -1,2 +1,2 @@
 # wordbank_tutorial
-Tutorial on using Wordbank website and wordbankr package for child language research.
+Tutorial on using the Wordbank website and wordbankr package for child language research.
